@@ -8,6 +8,11 @@ def multiplication(a,b):
     result = a * b
     return result
 
+def square_root(a,b):
+    result1 = a ** 0.5
+    result2 = b ** 0.5
+
+
 def square_input(a,b):
     result1 = a * a
     result2 = b * b
