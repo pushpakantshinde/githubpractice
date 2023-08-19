@@ -1,6 +1,7 @@
 def addition(a, b):
     result = a + b
     print(result)
+    print("conflict resolution successful")
     return result
 
 def multiplication(a,b):
